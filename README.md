@@ -21,37 +21,57 @@ Author : HenryTsai
 Face_Recognition_MTCNN_iResnet50_Arcface
 
 ├─Application_Pictures_Video—<Application:实现图片、视频标注 >
+
 │  │  Picture_Recognition.py—<图片标注>
+
 │  │  Video_Recognition.py—<视频标注>
-│  │
+
 │  ├─facebank—<人脸库>
+
 │  ├─face_input—<存放原始图片或视频
+
 │  └─model
+
 │      │  iResnet.py—<iResNet模型>
-│      │
+
 │      └─params—<存放模型参数>
+
 └─Train_Test_Modules—<Train&Test:模型训练与测试 >
+
 │  metrics.py— <ArcfaceLoss函数>
+
 │  test_module.py—<模型测试>
+
 │  train_module.py—<模型训练>
-│
+
 ├─data—<存放测试、训练数据>
+
 ├─MTCNN_Module—<MTCNN模块>
+
 │  │  MTCNN.py—<人脸定位与裁剪>
-│  │
+
 │  └─src—<MTCNN所需函数>
+
 │      │  box_utils.py
+
 │      │  detector.py
+
 │      │  first_stage.py
+
 │      │  get_nets.py
+
 │      │  visualization_utils.py
+
 │      │  **init**.py
-│      │
+
 │      └─weights—<MTCNN模型参数>
+
 ├─model
+
 │      fmobilenet.py—<MobileFaceNet模型>
+
 │      iResnet.py—<iResNet模型>
-│
+
 └─params—<存放训练、测试模型参数>
 
 ## 模型训练
@@ -128,6 +148,6 @@ Face_Recognition_MTCNN_iResnet50_Arcface
 
 - [arcface_torch](https://github.com/deepinsight/insightface/tree/master/recognition/arcface_torch)
 - [InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch)
-- [pytorch_arcface_cosface_partialFC](https://github.com/leoluopy/pytorch_arcface_cosface_partialFC)‣
-- **[手撕代码insightFace中的arcface_torch](https://zhuanlan.zhihu.com/p/368510746?utm_source=wechat_session&utm_medium=social&utm_oi=868793313396920320&utm_campaign=shareopn)**
-- **[人脸识别合集 | 10 ArcFace解析](https://zhuanlan.zhihu.com/p/76541084)**
+- [pytorch_arcface_cosface_partialFC](https://github.com/leoluopy/pytorch_arcface_cosface_partialFC)
+- [手撕代码insightFace中的arcface_torch](https://zhuanlan.zhihu.com/p/368510746?utm_source=wechat_session&utm_medium=social&utm_oi=868793313396920320&utm_campaign=shareopn)**
+- [人脸识别合集 | 10 ArcFace解析](https://zhuanlan.zhihu.com/p/76541084)**
