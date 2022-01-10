@@ -30,7 +30,7 @@ Face_Recognition_MTCNN_iResnet50_Arcface
 
 │  ├─face_input—<存放原始图片或视频
 
-│  └─model
+│  └─model--<存放模型>
 
 │      │  iResnet.py—<iResNet模型>
 
@@ -66,7 +66,7 @@ Face_Recognition_MTCNN_iResnet50_Arcface
 
 │      └─weights—<MTCNN模型参数>
 
-├─model
+├─model--<存放模型>
 
 │      fmobilenet.py—<MobileFaceNet模型>
 
