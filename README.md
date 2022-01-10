@@ -1,4 +1,6 @@
-# README
+# Face_Recognition_MTCNN_iResnet50_Arcface
+
+基于MCTNN,iResNet50,Arcface的人脸识别与标注
 
 Author : HenryTsai
 
