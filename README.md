@@ -151,5 +151,5 @@ Face_Recognition_MTCNN_iResnet50_Arcface
 - [arcface_torch](https://github.com/deepinsight/insightface/tree/master/recognition/arcface_torch)
 - [InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch)
 - [pytorch_arcface_cosface_partialFC](https://github.com/leoluopy/pytorch_arcface_cosface_partialFC)
-- [手撕代码insightFace中的arcface_torch](https://zhuanlan.zhihu.com/p/368510746?utm_source=wechat_session&utm_medium=social&utm_oi=868793313396920320&utm_campaign=shareopn)**
-- [人脸识别合集 | 10 ArcFace解析](https://zhuanlan.zhihu.com/p/76541084)**
+- [手撕代码insightFace中的arcface_torch](https://zhuanlan.zhihu.com/p/368510746?utm_source=wechat_session&utm_medium=social&utm_oi=868793313396920320&utm_campaign=shareopn)
+- [人脸识别合集 | 10 ArcFace解析](https://zhuanlan.zhihu.com/p/76541084)
