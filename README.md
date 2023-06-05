@@ -15,8 +15,6 @@ Author : HenryTsai
   
     E-mail: HenryTsai5683@outlook.com
     
-    Wechat: CHR56839999
-    
 
 ## 文件框架
 
