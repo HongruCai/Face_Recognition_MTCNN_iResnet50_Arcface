@@ -6,7 +6,7 @@ Author : HenryTsai
 
 ## 项目介绍
 
-- 本项目为北航人工智能研究院大三模式识别课程设计作业
+- 本项目为模式识别课程设计作业
 - 目标为实现人脸识别(Face Recognition)
 - 采用MTCNN & iResNet50 & ArcfaceLoss
 - 实现了**图片**人脸识别标注与**视频**人脸识别标注
